@@ -86,4 +86,4 @@ jobs:
         path: |
           dist/*.dmg
           dist/*.exe
-          dist/${{ matrix.file_name }}  
+          dist/${{ matrix.file_name }}
